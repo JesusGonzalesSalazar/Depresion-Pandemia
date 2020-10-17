@@ -1,230 +1,230 @@
 ﻿Edad;P1;P2;P3;P4;P5;P6;P7;P8;P9;P10;P11;P12;P13;P14;Total;Grado;String grado
 18 - 22;1;0;0;0;0;2;4;0;0;2;0;3;No;No;12;0;Sin depresion
 18 - 22;3;0;0;3;3;3;3;2;3;0;3;4;No;No;27;3;Depresion severa
-18 - 22;2;3;2;3;4;2;2;2;4;4;3;3;Sí;Sí;42;4;Depresion muy severa
-18 - 22;2;4;3;4;3;4;4;1;4;3;4;3;Sí;No;43;4;Depresion muy severa
-18 - 22;2;1;1;4;1;0;0;0;1;3;2;4;Sí;Sí;27;3;Depresion severa
-18 - 22;4;0;1;4;2;4;2;2;2;4;2;4;Sí;Sí;39;4;Depresion muy severa
-18 - 22;2;0;1;3;1;1;3;1;1;1;3;4;Sí;Sí;29;3;Depresion severa
+18 - 22;2;3;2;3;4;2;2;2;4;4;3;3;Si;Si;42;4;Depresion muy severa
+18 - 22;2;4;3;4;3;4;4;1;4;3;4;3;Si;No;43;4;Depresion muy severa
+18 - 22;2;1;1;4;1;0;0;0;1;3;2;4;Si;Si;27;3;Depresion severa
+18 - 22;4;0;1;4;2;4;2;2;2;4;2;4;Si;Si;39;4;Depresion muy severa
+18 - 22;2;0;1;3;1;1;3;1;1;1;3;4;Si;Si;29;3;Depresion severa
 18 - 22;2;1;2;0;3;0;0;0;4;4;2;4;No;No;22;2;Depresion moderada
 18 - 22;1;0;0;0;0;0;2;0;0;2;3;3;No;No;11;0;Sin depresion
-18 - 22;4;4;4;4;4;4;4;2;4;4;4;4;No;Sí;50;4;Depresion muy severa
-18 - 22;2;2;1;2;2;4;2;1;2;2;2;1;Sí;No;27;3;Depresion severa
+18 - 22;4;4;4;4;4;4;4;2;4;4;4;4;No;Si;50;4;Depresion muy severa
+18 - 22;2;2;1;2;2;4;2;1;2;2;2;1;Si;No;27;3;Depresion severa
 18 - 22;0;4;1;0;0;0;4;0;2;3;2;4;No;No;20;1;Depresion ligera
 18 - 22;4;4;3;2;4;4;2;2;4;2;2;4;No;No;37;4;Depresion muy severa
-18 - 22;1;0;0;1;3;0;2;1;2;2;2;3;Sí;No;21;2;Depresion moderada
-18 - 22;2;3;2;3;0;2;2;1;2;4;3;2;Sí;No;30;3;Depresion severa
-18 - 22;4;4;1;1;2;3;2;2;3;2;3;1;No;Sí;32;3;Depresion severa
+18 - 22;1;0;0;1;3;0;2;1;2;2;2;3;Si;No;21;2;Depresion moderada
+18 - 22;2;3;2;3;0;2;2;1;2;4;3;2;Si;No;30;3;Depresion severa
+18 - 22;4;4;1;1;2;3;2;2;3;2;3;1;No;Si;32;3;Depresion severa
 18 - 22;4;3;3;2;2;1;3;1;0;1;0;1;No;No;21;2;Depresion moderada
-18 - 22;4;2;1;1;2;2;4;1;1;3;2;2;Sí;No;29;3;Depresion severa
-18 - 22;2;1;2;4;0;1;2;2;3;2;2;3;Sí;Sí;32;3;Depresion severa
+18 - 22;4;2;1;1;2;2;4;1;1;3;2;2;Si;No;29;3;Depresion severa
+18 - 22;2;1;2;4;0;1;2;2;3;2;2;3;Si;Si;32;3;Depresion severa
 18 - 22;4;3;3;2;3;4;4;2;2;2;1;3;No;No;33;3;Depresion severa
-23 - 28;0;1;0;0;0;1;0;0;2;2;0;1;Sí;No;11;0;Sin depresion
-18 - 22;4;4;4;4;4;4;4;1;0;4;4;0;Sí;Sí;45;4;Depresion muy severa
+23 - 28;0;1;0;0;0;1;0;0;2;2;0;1;Si;No;11;0;Sin depresion
+18 - 22;4;4;4;4;4;4;4;1;0;4;4;0;Si;Si;45;4;Depresion muy severa
 18 - 22;2;1;2;0;3;0;0;0;4;4;2;4;No;No;22;2;Depresion moderada
-18 - 22;2;1;2;4;0;1;2;2;3;2;2;3;Sí;Sí;32;3;Depresion severa
-18 - 22;4;2;2;4;3;3;4;2;4;4;0;4;Sí;No;40;4;Depresion muy severa
+18 - 22;2;1;2;4;0;1;2;2;3;2;2;3;Si;Si;32;3;Depresion severa
+18 - 22;4;2;2;4;3;3;4;2;4;4;0;4;Si;No;40;4;Depresion muy severa
 29 - 35;4;4;2;4;2;4;3;1;3;3;3;3;No;No;36;4;Depresion muy severa
 18 - 22;3;2;1;2;2;2;3;2;2;0;2;4;No;No;25;2;Depresion moderada
-18 - 22;4;2;1;0;1;2;0;0;1;1;1;3;Sí;No;20;1;Depresion ligera
-18 - 22;3;3;3;3;4;3;2;2;3;4;2;2;Sí;Sí;42;4;Depresion muy severa
-18 - 22;2;1;0;0;2;3;2;1;3;3;2;3;Sí;Sí;30;3;Depresion severa
-18 - 22;4;2;1;1;2;2;4;1;1;3;2;2;Sí;No;29;3;Depresion severa
-18 - 22;4;4;4;4;4;4;4;1;0;4;4;0;Sí;Sí;45;4;Depresion muy severa
-18 - 22;4;2;1;3;4;4;4;2;3;3;3;1;Sí;Sí;42;4;Depresion muy severa
-18 - 22;3;2;1;3;2;1;3;1;1;2;0;3;Sí;No;26;2;Depresion moderada
-23 - 28;4;3;1;2;2;2;2;1;2;3;3;3;Sí;No;32;3;Depresion severa
-23 - 28;2;1;0;0;0;1;0;0;2;1;1;3;Sí;No;15;1;Depresion ligera
+18 - 22;4;2;1;0;1;2;0;0;1;1;1;3;Si;No;20;1;Depresion ligera
+18 - 22;3;3;3;3;4;3;2;2;3;4;2;2;Si;Si;42;4;Depresion muy severa
+18 - 22;2;1;0;0;2;3;2;1;3;3;2;3;Si;Si;30;3;Depresion severa
+18 - 22;4;2;1;1;2;2;4;1;1;3;2;2;Si;No;29;3;Depresion severa
+18 - 22;4;4;4;4;4;4;4;1;0;4;4;0;Si;Si;45;4;Depresion muy severa
+18 - 22;4;2;1;3;4;4;4;2;3;3;3;1;Si;Si;42;4;Depresion muy severa
+18 - 22;3;2;1;3;2;1;3;1;1;2;0;3;Si;No;26;2;Depresion moderada
+23 - 28;4;3;1;2;2;2;2;1;2;3;3;3;Si;No;32;3;Depresion severa
+23 - 28;2;1;0;0;0;1;0;0;2;1;1;3;Si;No;15;1;Depresion ligera
 18 - 22;3;4;0;2;4;4;3;2;3;4;4;4;No;No;37;4;Depresion muy severa
-18 - 22;4;2;1;1;2;2;4;1;1;3;2;2;Sí;No;29;3;Depresion severa
-18 - 22;0;0;1;1;2;4;0;2;2;2;4;0;Sí;No;22;2;Depresion moderada
-18 - 22;1;2;0;2;3;2;0;1;3;1;2;3;Sí;No;24;2;Depresion moderada
-23 - 28;4;4;3;4;3;4;2;2;4;4;3;3;Sí;No;44;4;Depresion muy severa
-18 - 22;4;2;0;4;4;3;4;2;3;4;4;2;Sí;Sí;44;4;Depresion muy severa
-18 - 22;3;2;1;3;2;1;3;1;1;2;0;3;Sí;No;26;2;Depresion moderada
+18 - 22;4;2;1;1;2;2;4;1;1;3;2;2;Si;No;29;3;Depresion severa
+18 - 22;0;0;1;1;2;4;0;2;2;2;4;0;Si;No;22;2;Depresion moderada
+18 - 22;1;2;0;2;3;2;0;1;3;1;2;3;Si;No;24;2;Depresion moderada
+23 - 28;4;4;3;4;3;4;2;2;4;4;3;3;Si;No;44;4;Depresion muy severa
+18 - 22;4;2;0;4;4;3;4;2;3;4;4;2;Si;Si;44;4;Depresion muy severa
+18 - 22;3;2;1;3;2;1;3;1;1;2;0;3;Si;No;26;2;Depresion moderada
 18 - 22;3;1;0;3;1;1;1;1;2;3;1;3;No;No;20;1;Depresion ligera
-36 o más;2;3;3;1;3;0;2;1;2;2;2;3;Sí;No;28;3;Depresion severa
-18 - 22;4;3;4;4;2;1;0;2;4;4;4;2;Sí;No;38;4;Depresion muy severa
-23 - 28;3;2;2;1;3;3;4;1;3;3;1;4;Sí;No;34;3;Depresion severa
-23 - 28;1;1;1;1;2;2;4;0;1;1;1;3;Sí;No;22;2;Depresion moderada
-18 - 22;2;2;2;0;4;2;3;2;4;4;4;2;Sí;No;35;4;Depresion muy severa
-23 - 28;4;2;1;2;1;0;2;1;1;3;2;2;Sí;Sí;29;3;Depresion severa
-29 - 35;2;2;0;3;2;1;1;0;1;2;3;3;No;Sí;24;2;Depresion moderada
+36 o más;2;3;3;1;3;0;2;1;2;2;2;3;Si;No;28;3;Depresion severa
+18 - 22;4;3;4;4;2;1;0;2;4;4;4;2;Si;No;38;4;Depresion muy severa
+23 - 28;3;2;2;1;3;3;4;1;3;3;1;4;Si;No;34;3;Depresion severa
+23 - 28;1;1;1;1;2;2;4;0;1;1;1;3;Si;No;22;2;Depresion moderada
+18 - 22;2;2;2;0;4;2;3;2;4;4;4;2;Si;No;35;4;Depresion muy severa
+23 - 28;4;2;1;2;1;0;2;1;1;3;2;2;Si;Si;29;3;Depresion severa
+29 - 35;2;2;0;3;2;1;1;0;1;2;3;3;No;Si;24;2;Depresion moderada
 23 - 28;2;1;0;1;1;1;1;0;1;1;1;1;No;No;11;0;Sin depresion
-23 - 28;4;4;0;1;4;3;4;2;4;4;4;2;Sí;Sí;44;4;Depresion muy severa
-36 o más;4;4;4;2;3;4;4;2;2;3;3;1;Sí;Sí;44;4;Depresion muy severa
-23 - 28;2;3;2;3;2;3;4;1;3;3;3;4;No;Sí;37;4;Depresion muy severa
-18 - 22;3;3;2;2;2;2;3;1;2;2;3;4;Sí;No;33;3;Depresion severa
-36 o más;2;1;2;2;3;1;3;2;2;1;0;3;Sí;No;26;2;Depresion moderada
-18 - 22;3;0;1;3;3;2;2;0;2;3;3;2;Sí;No;28;3;Depresion severa
-18 - 22;2;3;3;2;4;3;2;1;4;3;3;2;Sí;No;36;4;Depresion muy severa
-23 - 28;3;1;0;2;2;3;1;1;3;3;4;4;Sí;Sí;35;4;Depresion muy severa
+23 - 28;4;4;0;1;4;3;4;2;4;4;4;2;Si;Si;44;4;Depresion muy severa
+36 o más;4;4;4;2;3;4;4;2;2;3;3;1;Si;Si;44;4;Depresion muy severa
+23 - 28;2;3;2;3;2;3;4;1;3;3;3;4;No;Si;37;4;Depresion muy severa
+18 - 22;3;3;2;2;2;2;3;1;2;2;3;4;Si;No;33;3;Depresion severa
+36 o más;2;1;2;2;3;1;3;2;2;1;0;3;Si;No;26;2;Depresion moderada
+18 - 22;3;0;1;3;3;2;2;0;2;3;3;2;Si;No;28;3;Depresion severa
+18 - 22;2;3;3;2;4;3;2;1;4;3;3;2;Si;No;36;4;Depresion muy severa
+23 - 28;3;1;0;2;2;3;1;1;3;3;4;4;Si;Si;35;4;Depresion muy severa
 18 - 22;4;3;4;4;4;3;0;2;3;1;3;4;No;No;35;4;Depresion muy severa
-36 o más;1;2;2;2;1;0;0;0;1;1;1;4;Sí;No;19;1;Depresion ligera
-18 - 22;4;2;1;1;2;2;4;1;1;3;2;2;Sí;No;29;3;Depresion severa
+36 o más;1;2;2;2;1;0;0;0;1;1;1;4;Si;No;19;1;Depresion ligera
+18 - 22;4;2;1;1;2;2;4;1;1;3;2;2;Si;No;29;3;Depresion severa
 18 - 22;0;1;0;0;0;1;0;0;1;0;0;0;No;No;3;0;Sin depresion
 23 - 28;0;0;0;0;1;2;1;0;0;0;0;2;No;No;6;0;Sin depresion
-18 - 22;2;2;0;1;0;2;4;0;0;0;3;0;Sí;No;18;1;Depresion ligera
+18 - 22;2;2;0;1;0;2;4;0;0;0;3;0;Si;No;18;1;Depresion ligera
 18 - 22;0;0;0;0;0;0;0;0;0;0;1;0;No;No;1;0;Sin depresion
 18 - 22;1;2;2;2;0;0;3;0;3;2;0;0;No;No;15;1;Depresion ligera
-18 - 22;4;2;1;1;2;2;4;1;1;3;2;2;Sí;No;29;3;Depresion severa
-23 - 28;3;4;3;2;3;0;4;1;1;1;1;2;No;Sí;29;3;Depresion severa
-18 - 22;0;0;1;1;2;4;0;2;2;2;4;0;Sí;No;22;2;Depresion moderada
-18 - 22;1;1;1;0;0;1;1;1;3;2;2;4;Sí;Sí;25;2;Depresion moderada
-18 - 22;3;1;2;2;2;1;2;1;3;2;2;3;Sí;No;28;3;Depresion severa
+18 - 22;4;2;1;1;2;2;4;1;1;3;2;2;Si;No;29;3;Depresion severa
+23 - 28;3;4;3;2;3;0;4;1;1;1;1;2;No;Si;29;3;Depresion severa
+18 - 22;0;0;1;1;2;4;0;2;2;2;4;0;Si;No;22;2;Depresion moderada
+18 - 22;1;1;1;0;0;1;1;1;3;2;2;4;Si;Si;25;2;Depresion moderada
+18 - 22;3;1;2;2;2;1;2;1;3;2;2;3;Si;No;28;3;Depresion severa
 18 - 22;2;1;0;0;1;0;0;0;0;0;1;0;No;No;5;0;Sin depresion
 18 - 22;0;1;0;0;1;0;0;2;0;0;1;0;No;No;5;0;Sin depresion
-18 - 22;1;2;0;1;0;3;0;0;0;2;0;0;Sí;No;13;1;Depresion ligera
-18 - 22;2;2;1;0;3;1;4;0;0;2;0;0;Sí;No;19;1;Depresion ligera
-23 - 28;0;1;1;3;2;1;1;1;0;2;0;0;Sí;Sí;20;1;Depresion ligera
+18 - 22;1;2;0;1;0;3;0;0;0;2;0;0;Si;No;13;1;Depresion ligera
+18 - 22;2;2;1;0;3;1;4;0;0;2;0;0;Si;No;19;1;Depresion ligera
+23 - 28;0;1;1;3;2;1;1;1;0;2;0;0;Si;Si;20;1;Depresion ligera
 18 - 22;4;1;3;4;2;3;1;1;1;3;1;2;No;No;26;2;Depresion moderada
 23 - 28;1;2;1;1;2;1;1;0;3;3;1;4;No;No;20;1;Depresion ligera
-18 - 22;1;2;2;4;0;1;0;2;3;0;1;1;Sí;Sí;25;2;Depresion moderada
-23 - 28;2;0;1;1;0;3;0;1;0;0;2;1;Sí;No;15;1;Depresion ligera
+18 - 22;1;2;2;4;0;1;0;2;3;0;1;1;Si;Si;25;2;Depresion moderada
+23 - 28;2;0;1;1;0;3;0;1;0;0;2;1;Si;No;15;1;Depresion ligera
 18 - 22;4;1;3;3;2;1;0;2;1;1;1;4;No;No;23;2;Depresion moderada
-18 - 22;4;2;2;1;3;4;3;2;3;4;2;4;Sí;No;38;4;Depresion muy severa
-18 - 22;4;4;4;4;4;4;0;2;4;4;4;4;Sí;Sí;50;4;Depresion muy severa
-18 - 22;3;2;3;3;3;3;3;2;4;4;4;4;Sí;Sí;46;4;Depresion muy severa
-18 - 22;3;2;2;4;4;4;2;2;3;3;3;4;Sí;Sí;44;4;Depresion muy severa
+18 - 22;4;2;2;1;3;4;3;2;3;4;2;4;Si;No;38;4;Depresion muy severa
+18 - 22;4;4;4;4;4;4;0;2;4;4;4;4;Si;Si;50;4;Depresion muy severa
+18 - 22;3;2;3;3;3;3;3;2;4;4;4;4;Si;Si;46;4;Depresion muy severa
+18 - 22;3;2;2;4;4;4;2;2;3;3;3;4;Si;Si;44;4;Depresion muy severa
 18 - 22;3;3;3;3;2;4;1;2;4;3;4;3;No;No;35;4;Depresion muy severa
-36 o más;1;2;1;3;2;1;2;0;2;3;2;3;Sí;Sí;30;3;Depresion severa
-29 - 35;2;3;3;3;3;2;3;0;0;0;1;0;No;Sí;24;2;Depresion moderada
-29 - 35;3;3;3;3;4;1;2;2;4;3;4;4;Sí;No;40;4;Depresion muy severa
-36 o más;2;4;4;4;4;3;2;2;4;4;4;4;Sí;No;45;4;Depresion muy severa
-36 o más;0;1;1;1;2;1;2;1;2;3;2;2;Sí;Sí;26;2;Depresion moderada
+36 o más;1;2;1;3;2;1;2;0;2;3;2;3;Si;Si;30;3;Depresion severa
+29 - 35;2;3;3;3;3;2;3;0;0;0;1;0;No;Si;24;2;Depresion moderada
+29 - 35;3;3;3;3;4;1;2;2;4;3;4;4;Si;No;40;4;Depresion muy severa
+36 o más;2;4;4;4;4;3;2;2;4;4;4;4;Si;No;45;4;Depresion muy severa
+36 o más;0;1;1;1;2;1;2;1;2;3;2;2;Si;Si;26;2;Depresion moderada
 18 - 22;4;0;0;0;0;0;0;0;0;1;0;4;No;No;9;0;Sin depresion
-36 o más;4;4;2;4;4;3;4;2;4;4;3;4;No;Sí;46;4;Depresion muy severa
-36 o más;0;0;0;0;0;0;0;1;4;1;1;4;Sí;Sí;19;1;Depresion ligera
-36 o más;0;0;0;1;0;0;2;0;2;0;0;4;No;Sí;13;1;Depresion ligera
-36 o más;4;3;3;3;2;3;4;1;4;3;4;4;Sí;Sí;46;4;Depresion muy severa
-36 o más;4;0;1;1;0;0;0;0;4;4;4;0;Sí;Sí;26;2;Depresion moderada
+36 o más;4;4;2;4;4;3;4;2;4;4;3;4;No;Si;46;4;Depresion muy severa
+36 o más;0;0;0;0;0;0;0;1;4;1;1;4;Si;Si;19;1;Depresion ligera
+36 o más;0;0;0;1;0;0;2;0;2;0;0;4;No;Si;13;1;Depresion ligera
+36 o más;4;3;3;3;2;3;4;1;4;3;4;4;Si;Si;46;4;Depresion muy severa
+36 o más;4;0;1;1;0;0;0;0;4;4;4;0;Si;Si;26;2;Depresion moderada
 36 o más;1;3;1;3;4;2;3;1;4;2;4;3;No;No;31;3;Depresion severa
 36 o más;3;4;4;4;2;4;2;2;3;4;3;2;No;No;37;4;Depresion muy severa
-36 o más;2;0;0;0;2;2;2;0;2;1;2;1;Sí;Sí;22;2;Depresion moderada
-36 o más;4;0;1;1;3;0;1;0;2;0;2;3;Sí;Sí;25;2;Depresion moderada
-36 o más;0;0;0;4;2;1;2;0;1;4;2;4;Sí;No;24;2;Depresion moderada
-36 o más;1;3;2;3;3;3;0;1;4;3;4;3;Sí;Sí;38;4;Depresion muy severa
-23 - 28;1;2;2;0;1;0;1;1;2;3;1;0;Sí;No;18;1;Depresion ligera
-36 o más;0;2;2;1;1;0;4;1;3;0;0;4;Sí;No;22;2;Depresion moderada
-36 o más;1;1;1;0;2;0;1;1;0;1;0;4;Sí;No;16;1;Depresion ligera
-36 o más;4;2;3;3;4;1;3;2;4;4;4;4;Sí;No;42;4;Depresion muy severa
-36 o más;2;1;2;1;2;1;3;2;3;3;3;3;Sí;Sí;34;3;Depresion severa
-36 o más;0;0;0;1;2;1;1;0;2;2;2;3;Sí;Sí;22;2;Depresion moderada
-36 o más;0;1;2;1;1;1;1;1;2;2;2;2;Sí;Sí;24;2;Depresion moderada
-36 o más;0;1;1;1;1;0;2;0;2;0;0;4;Sí;Sí;20;1;Depresion ligera
-36 o más;2;4;4;4;2;3;2;1;4;4;4;4;No;Sí;42;4;Depresion muy severa
-36 o más;2;2;3;3;3;2;3;1;3;2;3;3;Sí;Sí;38;4;Depresion muy severa
-36 o más;0;2;0;1;3;1;0;0;4;1;3;1;Sí;Sí;24;2;Depresion moderada
+36 o más;2;0;0;0;2;2;2;0;2;1;2;1;Si;Si;22;2;Depresion moderada
+36 o más;4;0;1;1;3;0;1;0;2;0;2;3;Si;Si;25;2;Depresion moderada
+36 o más;0;0;0;4;2;1;2;0;1;4;2;4;Si;No;24;2;Depresion moderada
+36 o más;1;3;2;3;3;3;0;1;4;3;4;3;Si;Si;38;4;Depresion muy severa
+23 - 28;1;2;2;0;1;0;1;1;2;3;1;0;Si;No;18;1;Depresion ligera
+36 o más;0;2;2;1;1;0;4;1;3;0;0;4;Si;No;22;2;Depresion moderada
+36 o más;1;1;1;0;2;0;1;1;0;1;0;4;Si;No;16;1;Depresion ligera
+36 o más;4;2;3;3;4;1;3;2;4;4;4;4;Si;No;42;4;Depresion muy severa
+36 o más;2;1;2;1;2;1;3;2;3;3;3;3;Si;Si;34;3;Depresion severa
+36 o más;0;0;0;1;2;1;1;0;2;2;2;3;Si;Si;22;2;Depresion moderada
+36 o más;0;1;2;1;1;1;1;1;2;2;2;2;Si;Si;24;2;Depresion moderada
+36 o más;0;1;1;1;1;0;2;0;2;0;0;4;Si;Si;20;1;Depresion ligera
+36 o más;2;4;4;4;2;3;2;1;4;4;4;4;No;Si;42;4;Depresion muy severa
+36 o más;2;2;3;3;3;2;3;1;3;2;3;3;Si;Si;38;4;Depresion muy severa
+36 o más;0;2;0;1;3;1;0;0;4;1;3;1;Si;Si;24;2;Depresion moderada
 36 o más;0;0;0;0;2;0;4;0;2;0;3;4;No;No;15;1;Depresion ligera
-36 o más;0;0;0;0;0;0;4;0;0;0;0;2;No;Sí;10;0;Sin depresion
-36 o más;4;3;3;3;4;2;4;2;4;3;3;3;Sí;Sí;46;4;Depresion muy severa
-36 o más;2;2;2;2;3;2;4;1;3;2;2;3;Sí;Sí;36;4;Depresion muy severa
-18 - 22;2;0;0;1;1;1;1;1;1;1;3;4;Sí;No;20;1;Depresion ligera
-36 o más;0;0;0;0;1;0;3;1;2;2;1;4;Sí;Sí;22;2;Depresion moderada
-36 o más;0;3;2;2;3;3;1;1;3;2;3;3;Sí;Sí;34;3;Depresion severa
-36 o más;2;1;2;1;1;0;0;0;3;2;1;4;No;Sí;21;2;Depresion moderada
-36 o más;4;4;4;3;4;4;4;2;4;3;4;4;Sí;Sí;52;4;Depresion muy severa
+36 o más;0;0;0;0;0;0;4;0;0;0;0;2;No;Si;10;0;Sin depresion
+36 o más;4;3;3;3;4;2;4;2;4;3;3;3;Si;Si;46;4;Depresion muy severa
+36 o más;2;2;2;2;3;2;4;1;3;2;2;3;Si;Si;36;4;Depresion muy severa
+18 - 22;2;0;0;1;1;1;1;1;1;1;3;4;Si;No;20;1;Depresion ligera
+36 o más;0;0;0;0;1;0;3;1;2;2;1;4;Si;Si;22;2;Depresion moderada
+36 o más;0;3;2;2;3;3;1;1;3;2;3;3;Si;Si;34;3;Depresion severa
+36 o más;2;1;2;1;1;0;0;0;3;2;1;4;No;Si;21;2;Depresion moderada
+36 o más;4;4;4;3;4;4;4;2;4;3;4;4;Si;Si;52;4;Depresion muy severa
 18 - 22;3;3;3;3;2;4;1;2;4;3;4;3;No;No;35;4;Depresion muy severa
-36 o más;0;0;0;0;0;0;2;1;2;1;2;4;Sí;Sí;20;1;Depresion ligera
-36 o más;2;1;1;1;2;0;2;0;2;2;3;3;Sí;Sí;27;3;Depresion severa
-36 o más;3;2;2;2;3;0;0;1;1;4;1;4;Sí;Sí;31;3;Depresion severa
-36 o más;0;2;2;3;3;0;1;1;2;1;2;4;Sí;No;25;2;Depresion moderada
-36 o más;1;1;0;0;2;2;2;2;2;3;2;4;Sí;Sí;29;3;Depresion severa
-36 o más;1;3;3;3;4;0;0;1;4;3;1;3;No;Sí;30;3;Depresion severa
-36 o más;3;1;1;2;3;1;0;1;3;2;1;4;No;Sí;26;2;Depresion moderada
-18 - 22;1;2;2;3;4;0;3;2;3;4;3;3;Sí;Sí;38;4;Depresion muy severa
+36 o más;0;0;0;0;0;0;2;1;2;1;2;4;Si;Si;20;1;Depresion ligera
+36 o más;2;1;1;1;2;0;2;0;2;2;3;3;Si;Si;27;3;Depresion severa
+36 o más;3;2;2;2;3;0;0;1;1;4;1;4;Si;Si;31;3;Depresion severa
+36 o más;0;2;2;3;3;0;1;1;2;1;2;4;Si;No;25;2;Depresion moderada
+36 o más;1;1;0;0;2;2;2;2;2;3;2;4;Si;Si;29;3;Depresion severa
+36 o más;1;3;3;3;4;0;0;1;4;3;1;3;No;Si;30;3;Depresion severa
+36 o más;3;1;1;2;3;1;0;1;3;2;1;4;No;Si;26;2;Depresion moderada
+18 - 22;1;2;2;3;4;0;3;2;3;4;3;3;Si;Si;38;4;Depresion muy severa
 36 o más;0;0;0;2;2;0;1;0;1;0;1;4;No;No;11;0;Sin depresion
-36 o más;2;3;3;3;2;1;2;1;2;2;2;4;No;Sí;31;3;Depresion severa
-29 - 35;2;1;1;3;3;0;2;1;3;4;2;3;Sí;No;29;3;Depresion severa
-29 - 35;2;1;1;3;3;0;2;1;3;4;2;3;Sí;No;29;3;Depresion severa
-29 - 35;2;2;2;4;3;2;3;2;2;2;3;4;Sí;No;35;4;Depresion muy severa
-29 - 35;0;0;1;2;2;1;0;2;2;3;1;2;Sí;Sí;24;2;Depresion moderada
-29 - 35;2;1;1;1;2;1;2;1;2;2;3;2;Sí;No;24;2;Depresion moderada
-36 o más;0;0;0;2;1;0;1;0;0;0;0;1;Sí;No;9;0;Sin depresion
-36 o más;3;1;1;2;3;1;0;1;3;2;1;4;No;Sí;26;2;Depresion moderada
-18 - 22;1;1;0;0;1;1;1;0;3;1;1;3;Sí;No;17;1;Depresion ligera
-18 - 22;1;2;1;1;1;1;0;1;2;1;1;2;Sí;Sí;22;2;Depresion moderada
+36 o más;2;3;3;3;2;1;2;1;2;2;2;4;No;Si;31;3;Depresion severa
+29 - 35;2;1;1;3;3;0;2;1;3;4;2;3;Si;No;29;3;Depresion severa
+29 - 35;2;1;1;3;3;0;2;1;3;4;2;3;Si;No;29;3;Depresion severa
+29 - 35;2;2;2;4;3;2;3;2;2;2;3;4;Si;No;35;4;Depresion muy severa
+29 - 35;0;0;1;2;2;1;0;2;2;3;1;2;Si;Si;24;2;Depresion moderada
+29 - 35;2;1;1;1;2;1;2;1;2;2;3;2;Si;No;24;2;Depresion moderada
+36 o más;0;0;0;2;1;0;1;0;0;0;0;1;Si;No;9;0;Sin depresion
+36 o más;3;1;1;2;3;1;0;1;3;2;1;4;No;Si;26;2;Depresion moderada
+18 - 22;1;1;0;0;1;1;1;0;3;1;1;3;Si;No;17;1;Depresion ligera
+18 - 22;1;2;1;1;1;1;0;1;2;1;1;2;Si;Si;22;2;Depresion moderada
 23 - 28;4;1;2;2;3;2;1;0;2;3;2;1;No;No;23;2;Depresion moderada
-18 - 22;2;2;3;4;3;2;3;1;2;2;3;2;No;Sí;33;3;Depresion severa
-18 - 22;3;3;3;2;4;4;3;2;2;4;1;3;Sí;No;38;4;Depresion muy severa
-18 - 22;4;2;0;3;4;4;4;2;4;4;2;4;Sí;Sí;45;4;Depresion muy severa
-18 - 22;4;3;2;3;4;0;1;0;1;4;1;3;Sí;No;30;3;Depresion severa
-18 - 22;3;3;4;2;1;4;2;1;4;2;2;3;Sí;Sí;39;4;Depresion muy severa
+18 - 22;2;2;3;4;3;2;3;1;2;2;3;2;No;Si;33;3;Depresion severa
+18 - 22;3;3;3;2;4;4;3;2;2;4;1;3;Si;No;38;4;Depresion muy severa
+18 - 22;4;2;0;3;4;4;4;2;4;4;2;4;Si;Si;45;4;Depresion muy severa
+18 - 22;4;3;2;3;4;0;1;0;1;4;1;3;Si;No;30;3;Depresion severa
+18 - 22;3;3;4;2;1;4;2;1;4;2;2;3;Si;Si;39;4;Depresion muy severa
 18 - 22;3;4;2;3;0;4;4;2;4;4;2;3;No;No;35;4;Depresion muy severa
-36 o más;2;0;1;0;2;2;3;0;2;0;1;4;No;Sí;21;2;Depresion moderada
-18 - 22;2;2;2;3;1;3;2;1;1;1;1;3;Sí;Sí;30;3;Depresion severa
+36 o más;2;0;1;0;2;2;3;0;2;0;1;4;No;Si;21;2;Depresion moderada
+18 - 22;2;2;2;3;1;3;2;1;1;1;1;3;Si;Si;30;3;Depresion severa
 18 - 22;4;3;3;3;3;3;3;0;3;4;2;4;No;No;35;4;Depresion muy severa
-18 - 22;2;2;1;1;1;0;2;1;2;2;2;3;No;Sí;23;2;Depresion moderada
+18 - 22;2;2;1;1;1;0;2;1;2;2;2;3;No;Si;23;2;Depresion moderada
 18 - 22;2;2;2;2;2;2;2;1;2;2;2;2;No;No;23;2;Depresion moderada
-23 - 28;4;4;3;3;4;3;4;1;3;4;2;2;Sí;No;41;4;Depresion muy severa
-36 o más;0;0;2;1;1;0;1;0;3;0;2;2;Sí;No;16;1;Depresion ligera
-18 - 22;2;2;2;2;2;2;2;1;2;2;2;2;Sí;No;27;3;Depresion severa
-18 - 22;0;0;0;0;1;0;1;2;1;1;2;0;Sí;Sí;16;1;Depresion ligera
-29 - 35;1;2;1;1;3;2;2;1;3;1;3;4;Sí;No;28;3;Depresion severa
-18 - 22;0;2;1;2;0;2;2;0;1;0;1;2;No;Sí;17;1;Depresion ligera
-29 - 35;0;0;0;0;0;0;0;0;1;2;1;3;Sí;Sí;15;1;Depresion ligera
-36 o más;3;2;2;2;1;0;1;0;1;0;1;2;Sí;Sí;23;2;Depresion moderada
-18 - 22;3;4;0;0;0;0;0;0;3;0;2;2;Sí;Sí;22;2;Depresion moderada
+23 - 28;4;4;3;3;4;3;4;1;3;4;2;2;Si;No;41;4;Depresion muy severa
+36 o más;0;0;2;1;1;0;1;0;3;0;2;2;Si;No;16;1;Depresion ligera
+18 - 22;2;2;2;2;2;2;2;1;2;2;2;2;Si;No;27;3;Depresion severa
+18 - 22;0;0;0;0;1;0;1;2;1;1;2;0;Si;Si;16;1;Depresion ligera
+29 - 35;1;2;1;1;3;2;2;1;3;1;3;4;Si;No;28;3;Depresion severa
+18 - 22;0;2;1;2;0;2;2;0;1;0;1;2;No;Si;17;1;Depresion ligera
+29 - 35;0;0;0;0;0;0;0;0;1;2;1;3;Si;Si;15;1;Depresion ligera
+36 o más;3;2;2;2;1;0;1;0;1;0;1;2;Si;Si;23;2;Depresion moderada
+18 - 22;3;4;0;0;0;0;0;0;3;0;2;2;Si;Si;22;2;Depresion moderada
 18 - 22;2;0;0;1;0;1;2;0;1;2;1;2;No;No;12;0;Sin depresion
-18 - 22;4;3;3;0;4;3;4;2;3;3;2;3;Sí;Sí;42;4;Depresion muy severa
-23 - 28;2;0;0;0;0;0;2;1;1;3;2;4;Sí;No;19;1;Depresion ligera
-23 - 28;1;3;2;2;1;2;3;1;2;3;2;1;Sí;Sí;31;3;Depresion severa
-23 - 28;4;4;3;4;0;0;0;1;1;3;3;4;Sí;No;31;3;Depresion severa
-18 - 22;3;2;2;3;3;1;4;2;3;3;4;2;Sí;No;36;4;Depresion muy severa
-18 - 22;4;3;2;1;4;3;4;2;4;4;3;4;Sí;No;42;4;Depresion muy severa
-18 - 22;0;0;0;0;1;0;4;0;0;0;0;4;No;Sí;13;1;Depresion ligera
-18 - 22;3;3;4;0;3;0;3;2;0;3;1;3;Sí;Sí;33;3;Depresion severa
+18 - 22;4;3;3;0;4;3;4;2;3;3;2;3;Si;Si;42;4;Depresion muy severa
+23 - 28;2;0;0;0;0;0;2;1;1;3;2;4;Si;No;19;1;Depresion ligera
+23 - 28;1;3;2;2;1;2;3;1;2;3;2;1;Si;Si;31;3;Depresion severa
+23 - 28;4;4;3;4;0;0;0;1;1;3;3;4;Si;No;31;3;Depresion severa
+18 - 22;3;2;2;3;3;1;4;2;3;3;4;2;Si;No;36;4;Depresion muy severa
+18 - 22;4;3;2;1;4;3;4;2;4;4;3;4;Si;No;42;4;Depresion muy severa
+18 - 22;0;0;0;0;1;0;4;0;0;0;0;4;No;Si;13;1;Depresion ligera
+18 - 22;3;3;4;0;3;0;3;2;0;3;1;3;Si;Si;33;3;Depresion severa
 18 - 22;4;1;0;2;2;1;1;1;2;1;1;1;No;No;17;1;Depresion ligera
-18 - 22;3;2;1;4;4;3;4;2;4;4;4;3;Sí;No;42;4;Depresion muy severa
-18 - 22;2;1;1;2;3;3;4;2;4;3;4;1;Sí;No;34;3;Depresion severa
-18 - 22;4;0;0;3;2;3;3;2;3;0;1;4;Sí;No;29;3;Depresion severa
-18 - 22;2;0;0;2;4;0;4;0;1;0;3;3;Sí;Sí;27;3;Depresion severa
-18 - 22;4;1;0;3;4;3;4;2;3;4;1;3;Sí;No;36;4;Depresion muy severa
+18 - 22;3;2;1;4;4;3;4;2;4;4;4;3;Si;No;42;4;Depresion muy severa
+18 - 22;2;1;1;2;3;3;4;2;4;3;4;1;Si;No;34;3;Depresion severa
+18 - 22;4;0;0;3;2;3;3;2;3;0;1;4;Si;No;29;3;Depresion severa
+18 - 22;2;0;0;2;4;0;4;0;1;0;3;3;Si;Si;27;3;Depresion severa
+18 - 22;4;1;0;3;4;3;4;2;3;4;1;3;Si;No;36;4;Depresion muy severa
 Menor de 18;2;3;4;3;1;1;2;2;1;2;0;2;No;No;23;2;Depresion moderada
-23 - 28;4;4;4;3;1;2;4;2;4;3;3;4;Sí;No;42;4;Depresion muy severa
-18 - 22;3;0;1;0;3;2;3;1;1;2;1;2;Sí;Sí;27;3;Depresion severa
-18 - 22;4;3;2;4;4;0;2;2;3;4;4;3;Sí;No;39;4;Depresion muy severa
-18 - 22;3;0;0;3;3;2;3;2;3;2;3;4;Sí;No;32;3;Depresion severa
+23 - 28;4;4;4;3;1;2;4;2;4;3;3;4;Si;No;42;4;Depresion muy severa
+18 - 22;3;0;1;0;3;2;3;1;1;2;1;2;Si;Si;27;3;Depresion severa
+18 - 22;4;3;2;4;4;0;2;2;3;4;4;3;Si;No;39;4;Depresion muy severa
+18 - 22;3;0;0;3;3;2;3;2;3;2;3;4;Si;No;32;3;Depresion severa
 18 - 22;3;1;0;2;2;0;2;2;1;3;3;4;No;No;23;2;Depresion moderada
-Menor de 18;0;1;1;1;2;1;2;1;2;2;2;3;Sí;No;22;2;Depresion moderada
-18 - 22;4;2;4;2;4;4;2;2;4;4;4;4;Sí;No;44;4;Depresion muy severa
-18 - 22;4;4;0;4;2;2;2;2;4;4;0;2;Sí;No;34;3;Depresion severa
-Menor de 18;3;1;1;2;1;4;1;2;2;3;1;3;Sí;No;28;3;Depresion severa
-18 - 22;1;2;0;2;4;2;2;2;2;3;3;4;Sí;Sí;35;4;Depresion muy severa
-18 - 22;4;0;1;1;2;3;2;1;3;3;1;4;Sí;Sí;33;3;Depresion severa
+Menor de 18;0;1;1;1;2;1;2;1;2;2;2;3;Si;No;22;2;Depresion moderada
+18 - 22;4;2;4;2;4;4;2;2;4;4;4;4;Si;No;44;4;Depresion muy severa
+18 - 22;4;4;0;4;2;2;2;2;4;4;0;2;Si;No;34;3;Depresion severa
+Menor de 18;3;1;1;2;1;4;1;2;2;3;1;3;Si;No;28;3;Depresion severa
+18 - 22;1;2;0;2;4;2;2;2;2;3;3;4;Si;Si;35;4;Depresion muy severa
+18 - 22;4;0;1;1;2;3;2;1;3;3;1;4;Si;Si;33;3;Depresion severa
 18 - 22;3;0;0;0;3;4;2;2;2;3;2;3;No;No;24;2;Depresion moderada
 18 - 22;4;3;3;4;4;4;1;2;1;4;1;4;No;No;35;4;Depresion muy severa
 18 - 22;1;1;1;2;1;0;3;0;1;1;1;3;No;No;15;1;Depresion ligera
-18 - 22;3;3;2;4;4;0;3;2;3;4;2;4;Sí;Sí;42;4;Depresion muy severa
+18 - 22;3;3;2;4;4;0;3;2;3;4;2;4;Si;Si;42;4;Depresion muy severa
 18 - 22;2;0;0;1;0;0;2;0;0;2;0;2;No;No;9;0;Sin depresion
-18 - 22;1;0;0;0;2;1;0;1;1;0;1;3;No;Sí;14;1;Depresion ligera
-18 - 22;4;0;0;4;2;2;2;1;2;2;2;2;Sí;No;27;3;Depresion severa
-18 - 22;4;1;2;3;1;4;3;2;2;3;3;4;Sí;Sí;40;4;Depresion muy severa
-18 - 22;2;2;2;4;1;0;0;1;1;3;3;2;Sí;Sí;29;3;Depresion severa
-18 - 22;4;4;2;4;2;3;3;2;1;2;2;2;No;Sí;35;4;Depresion muy severa
-18 - 22;3;2;0;1;4;2;2;2;3;4;1;3;Sí;Sí;35;4;Depresion muy severa
-18 - 22;2;3;1;3;0;4;2;1;1;1;0;4;Sí;No;26;2;Depresion moderada
-23 - 28;4;4;4;3;1;2;4;2;4;3;3;4;Sí;No;42;4;Depresion muy severa
+18 - 22;1;0;0;0;2;1;0;1;1;0;1;3;No;Si;14;1;Depresion ligera
+18 - 22;4;0;0;4;2;2;2;1;2;2;2;2;Si;No;27;3;Depresion severa
+18 - 22;4;1;2;3;1;4;3;2;2;3;3;4;Si;Si;40;4;Depresion muy severa
+18 - 22;2;2;2;4;1;0;0;1;1;3;3;2;Si;Si;29;3;Depresion severa
+18 - 22;4;4;2;4;2;3;3;2;1;2;2;2;No;Si;35;4;Depresion muy severa
+18 - 22;3;2;0;1;4;2;2;2;3;4;1;3;Si;Si;35;4;Depresion muy severa
+18 - 22;2;3;1;3;0;4;2;1;1;1;0;4;Si;No;26;2;Depresion moderada
+23 - 28;4;4;4;3;1;2;4;2;4;3;3;4;Si;No;42;4;Depresion muy severa
 18 - 22;4;2;3;3;1;4;1;2;0;3;1;2;No;No;26;2;Depresion moderada
-18 - 22;4;4;3;2;4;4;4;1;4;4;4;3;No;Sí;45;4;Depresion muy severa
-18 - 22;1;0;0;0;0;0;0;0;2;0;2;3;Sí;Sí;16;1;Depresion ligera
-36 o más;3;3;3;1;4;4;2;1;3;2;3;4;Sí;Sí;41;4;Depresion muy severa
+18 - 22;4;4;3;2;4;4;4;1;4;4;4;3;No;Si;45;4;Depresion muy severa
+18 - 22;1;0;0;0;0;0;0;0;2;0;2;3;Si;Si;16;1;Depresion ligera
+36 o más;3;3;3;1;4;4;2;1;3;2;3;4;Si;Si;41;4;Depresion muy severa
 23 - 28;3;2;1;2;1;1;2;1;1;3;3;4;No;No;24;2;Depresion moderada
 18 - 22;2;0;0;0;1;0;2;0;1;3;2;4;No;No;15;1;Depresion ligera
-18 - 22;4;4;4;2;4;4;2;2;4;3;4;4;Sí;No;45;4;Depresion muy severa
-18 - 22;2;1;0;4;2;3;3;1;3;4;3;3;Sí;No;33;3;Depresion severa
-18 - 22;2;4;2;3;4;4;4;2;4;4;4;1;Sí;No;42;4;Depresion muy severa
-29 - 35;4;2;4;3;2;4;2;2;3;3;2;4;Sí;Sí;43;4;Depresion muy severa
-23 - 28;0;2;1;0;3;1;0;2;1;3;2;2;Sí;No;21;2;Depresion moderada
-23 - 28;4;1;1;1;3;1;4;2;3;3;1;4;Sí;Sí;36;4;Depresion muy severa
-18 - 22;2;2;1;2;3;3;0;2;3;2;3;3;Sí;Sí;34;3;Depresion severa
-23 - 28;2;1;1;1;2;0;0;1;2;3;2;4;Sí;No;23;2;Depresion moderada
-36 o más;0;0;0;0;1;0;3;1;2;2;1;4;Sí;Sí;22;2;Depresion moderada
-29 - 35;4;2;2;3;2;2;2;2;2;2;3;4;Sí;Sí;38;4;Depresion muy severa
-Menor de 18;1;0;0;2;0;0;1;1;2;1;2;3;Sí;No;17;1;Depresion ligera
-29 - 35;2;1;1;3;2;2;3;1;2;3;2;1;Sí;Sí;31;3;Depresion severa
-23 - 28;3;1;0;3;3;0;3;1;2;2;1;4;Sí;No;27;3;Depresion severa
-23 - 28;2;2;0;3;3;0;3;1;3;2;2;2;Sí;No;27;3;Depresion severa
-23 - 28;3;2;2;3;4;1;3;1;3;4;2;4;Sí;Sí;40;4;Depresion muy severa
-23 - 28;0;1;2;4;2;0;0;1;2;2;1;3;Sí;No;22;2;Depresion moderada
-23 - 28;3;2;1;0;3;1;0;0;1;0;0;3;Sí;No;18;1;Depresion ligera
+18 - 22;4;4;4;2;4;4;2;2;4;3;4;4;Si;No;45;4;Depresion muy severa
+18 - 22;2;1;0;4;2;3;3;1;3;4;3;3;Si;No;33;3;Depresion severa
+18 - 22;2;4;2;3;4;4;4;2;4;4;4;1;Si;No;42;4;Depresion muy severa
+29 - 35;4;2;4;3;2;4;2;2;3;3;2;4;Si;Si;43;4;Depresion muy severa
+23 - 28;0;2;1;0;3;1;0;2;1;3;2;2;Si;No;21;2;Depresion moderada
+23 - 28;4;1;1;1;3;1;4;2;3;3;1;4;Si;Si;36;4;Depresion muy severa
+18 - 22;2;2;1;2;3;3;0;2;3;2;3;3;Si;Si;34;3;Depresion severa
+23 - 28;2;1;1;1;2;0;0;1;2;3;2;4;Si;No;23;2;Depresion moderada
+36 o más;0;0;0;0;1;0;3;1;2;2;1;4;Si;Si;22;2;Depresion moderada
+29 - 35;4;2;2;3;2;2;2;2;2;2;3;4;Si;Si;38;4;Depresion muy severa
+Menor de 18;1;0;0;2;0;0;1;1;2;1;2;3;Si;No;17;1;Depresion ligera
+29 - 35;2;1;1;3;2;2;3;1;2;3;2;1;Si;Si;31;3;Depresion severa
+23 - 28;3;1;0;3;3;0;3;1;2;2;1;4;Si;No;27;3;Depresion severa
+23 - 28;2;2;0;3;3;0;3;1;3;2;2;2;Si;No;27;3;Depresion severa
+23 - 28;3;2;2;3;4;1;3;1;3;4;2;4;Si;Si;40;4;Depresion muy severa
+23 - 28;0;1;2;4;2;0;0;1;2;2;1;3;Si;No;22;2;Depresion moderada
+23 - 28;3;2;1;0;3;1;0;0;1;0;0;3;Si;No;18;1;Depresion ligera
